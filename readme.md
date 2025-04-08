@@ -26,6 +26,9 @@ This is a simple number guessing game implemented in JavaScript. The game genera
 - Node.js installed on your machine.
 
 ### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Vigneshkatz/number_guess.git
+Add these cmd in your terminal
+1. git clone https://github.com/Vigneshkatz/number_guess.git```
+
+2. cd number_guess
+
+3. node number_guess.js
