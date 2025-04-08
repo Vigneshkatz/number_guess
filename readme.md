@@ -30,3 +30,6 @@ Add these commands in your terminal:
 1. `git clone https://github.com/Vigneshkatz/number_guess.git`
 2. `cd number_guess`
 3. `node number_guess.js`
+
+### Project Page
+Visit the project page at: [https://github.com/Vigneshkatz/number_guess](https://github.com/Vigneshkatz/number_guess)
