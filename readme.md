@@ -1,5 +1,7 @@
 # Number Guessing Game
 
+Sample solution for the number-guessing-game[https://roadmap.sh/projects/number-guessing-game]challenge from roadmap.sh.
+
 ## Description
 This is a simple number guessing game implemented in JavaScript. The game generates a random number between 1 and 100, and the player has to guess the number within a limited number of attempts based on the selected difficulty level.
 
