@@ -32,4 +32,4 @@ Add these commands in your terminal:
 3. `node number_guess.js`
 
 ### Project Page
-Visit the project page at: [https://github.com/Vigneshkatz/number_guess](https://github.com/Vigneshkatz/number_guess)
+project url :  [https://roadmap.sh/projects/number-guessing-game]
